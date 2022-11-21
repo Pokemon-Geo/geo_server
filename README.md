@@ -1,4 +1,4 @@
-# geo_server
+# Geo Server
 
 The server for our PokemonGeo app
 
